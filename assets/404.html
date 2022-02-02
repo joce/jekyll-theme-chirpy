@@ -9,6 +9,7 @@ redirect_from:
   - /posts/
 ---
 
-{% include lang.html %}
-
-<p class="lead">{{ site.data.locales[lang].not_found.statment }}</p>
+<div class="lead">
+  <img class="right" src="/assets/img/404.png">
+  <p>{{site.data.locales[site.lang].not_found.statment }}</p>
+</div>
