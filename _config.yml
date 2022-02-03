@@ -44,6 +44,21 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      image:
+      category:
+      tags:
+      published: false
+      sitemap: false
+
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
