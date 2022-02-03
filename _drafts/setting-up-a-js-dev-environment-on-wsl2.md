@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Setting up a web dev environment on WSL2
-description: Notes on how to get a Linux web development environment up and running on Windows with WSL2
+description: Notes on how to get a Linux web development environment up and running
+  on Windows with WSL2
 category:
-  - Howtos
+- Howtos
 tags:
-  - howto
-  - dev
-  - js
-  - windows
-  - linux
-  - wsl
+- howto
+- dev
+- js
+- windows
+- linux
+- wsl
 image:
   src: "/assets/img/posts/headers/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg"
-date: 2022-02-02 22:05 -0500
 ---
 Over the years, I've setup, improved and tweaked my web development[^web-dev-fn] environment. If I were asked me what to install, how to configure it and so on and so forth, to get the same setup, I'd have to think about it for a while, and the answer would maybe overwhelm the questioner.
 
