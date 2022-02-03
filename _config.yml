@@ -44,6 +44,8 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+incremental: true
+
 jekyll_compose:
   default_front_matter:
     drafts:
