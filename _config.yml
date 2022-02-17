@@ -8,6 +8,8 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
+prefer_datetime_locale: en-ca
+
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Montreal
 
@@ -38,8 +40,8 @@ social:
   email: jocelynlegault@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/joce # change to your github homepage
+    - https://twitter.com/djahoss # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
