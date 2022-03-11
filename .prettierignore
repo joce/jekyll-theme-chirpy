@@ -1,0 +1,14 @@
+# Ignore pretty much anything that isn't this blog
+_data
+_includes
+_javascript
+_layouts
+_plugins
+_sass
+_tabs
+.github
+assets
+glupfile._javascript
+tools
+
+_config.yml

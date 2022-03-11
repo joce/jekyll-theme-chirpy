@@ -17,3 +17,7 @@ quote_type = double
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.md]
+[.markdownlint.jsonc]
+indent_size = 4
