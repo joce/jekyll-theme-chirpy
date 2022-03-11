@@ -61,7 +61,7 @@ jekyll_compose:
       published: false
       sitemap: false
 
-google_site_verification: # fill in to your verification string
+google_site_verification: ahELMuJq93oFwiOBhJIzC6WQjH-Wg9thjceCcZVuOWo # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
