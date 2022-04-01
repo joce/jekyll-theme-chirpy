@@ -15,5 +15,5 @@ tags:
 - Windows aliases and setup
 
 ```console
-choco install gnuwin32-coreutils.install bat diffutils fd fzf less nano ripgrep wget which
+$ choco install gnuwin32-coreutils.install bat diffutils fd fzf less nano ripgrep wget which
 ```
