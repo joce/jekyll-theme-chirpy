@@ -15,7 +15,7 @@ tags:
 - script
 ---
 
-In recent months, I've starter hacking a little on [mop](https://github.com/mop-tracker/mop), a command-line utility that displays stock market data pulled from Yahoo! Finance. It's written in [Go](https://go.dev), a language I had never used before, and it's been fun to learn it while playing around with a tool I use on a day-to-day basis to keep me up-to-date with the values of some stock I own.
+In recent months, I've started hacking a little on [mop](https://github.com/mop-tracker/mop), a command-line utility that displays stock market data pulled from Yahoo! Finance. It's written in [Go](https://go.dev), a language I had never used before, and it's been fun to learn it while playing around with a tool I use on a day-to-day basis to keep me up-to-date with the values of some stock I own.
 
 While getting more familiar with mop, I was looking at opened issues on GitHub, I stumbled upon this one, asking that [mop could be used as a tool to pull market data on a punctual basis](https://github.com/mop-tracker/mop/issues/88). This would make mop, an interactive tool, behave in a non-interactive way.
 
