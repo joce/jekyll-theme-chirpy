@@ -37,7 +37,7 @@ So, first and foremost, we're going to use `curl` to pull the data from Yahoo!. 
 $ curl https://query1.finance.yahoo.com/v7/finance/quote?symbols=AAPL,GOOG,F 2>/dev/null
 ```
 
-> Note that I'm redirecting the error stream to null so only the raw data tha interests us is spewed to the console. In this post, I'll be using the Linux way to redirect the error stream to null in my examples; `2>/dev/null`. If you're on Window, use `2>nul` instead.
+> Note that I'm redirecting the error stream to null so only the raw data that interests us is spewed to the console. In this post, I'll be using the Linux way to redirect the error stream to null in my examples; `2>/dev/null`. If you're on Window, use `2>nul` instead.
 {: .prompt-info }
 
 I will not be posting the whole resulting data here, but let's just say that we're served with a nice, dense wall of text.
