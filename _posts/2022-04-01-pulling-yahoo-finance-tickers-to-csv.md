@@ -25,9 +25,9 @@ What follows is a somewhat more elaborate take of the answer I finally served to
 
 So as I just stated, mop itself is an interactive tool, that serves a given purpose. Repurposing it would change its nature, and what it would have become would have been incompatible with the [UNIX Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy):
 
->* Write programs that do one thing and do it well.
->* Write programs to work together.
->* Write programs to handle text streams, because that is a universal interface.
+* Write programs that do one thing and do it well.
+* Write programs to work together.
+* Write programs to handle text streams, because that is a universal interface.
 
 So I started digging, and I found that using a set of already existing command-line tools, available on a variety of systems, could accomplish all that the person who opened the issue in the first place wanted, and then some. These tools are `curl` (available out of the box on pretty much all systems), `jq` and `mlr` (aka Miller). The latter two can be installed using your favorite package manager (e.g. `apt` on Ubuntu/Debian, [Chocolatey](https://chocolatey.org) on Windows, etc).
 
