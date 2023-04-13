@@ -1,17 +1,16 @@
+--- # -------------------------------------
+
 ## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
 # -------------------------------------
 # {author_id}:
 #   name: {full name}
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
-# -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+joce:
+  name: Jocelyn Legault
+  url: https://github.com/joce
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+chatgpt:
+  name: ChatGPT
+  url: https://chat.openai.com
