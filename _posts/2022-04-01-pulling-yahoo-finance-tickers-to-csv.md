@@ -10,7 +10,7 @@ category:  How-to
 tags:
 - howto
 - dev
-- command-line
+- command line
 - stock market
 - script
 ---
