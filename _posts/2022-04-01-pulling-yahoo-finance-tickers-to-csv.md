@@ -5,7 +5,7 @@ date: 2022-04-01 16:26 -0400
 description: How to fetch market data from Yahoo! Finance in CSV form, from the command line.
 image:
   path: /assets/img/posts/pulling-yahoo-finance-tickers-to-csv/header/lo-lo-CeVj8lPBJSc-unsplash.jpg
-  alt: "Photo by lo lo on Unsplash"
+  title: "Photo by lo lo on Unsplash"
 category:  How-to
 tags:
 - howto

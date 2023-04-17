@@ -5,7 +5,8 @@ title: 'Temporal Echoes: Unraveling the Influence of Time Travelers on the Bible
 description: An experiment in using ChatGPT to generate long form text.
 image:
   path: /assets/img/posts/temporal-echoes-unraveling-the-influence-of-time-travelers-on-the-bible-and-the-course-of-human-history/header/Two_persons_on_top_of_a_mountain._Person_One_in_cyberpunk.png
-  alt: "MidJourney: Two persons on top of a mountain. Person One in cyberpunk suit and helmet in the desert. The man is on top of a mountain. The cyberpunk suit and the helmet are amazingly detailed and in light earth tones. Very dirty. Person Two is wearing traditional desert garb. Inspirational characters. Desert setting. Great light. Late afternoon. Photo shot on Kodak Ektachrome. In the style of Enki Bilal. --v 5 --ar 5:2"
+  title: "MidJourney:\nTwo persons on top of a mountain. Person One in cyberpunk suit and helmet in the desert. The man is on top of a mountain. The cyberpunk suit and the helmet are amazingly detailed and in light earth tones. Very dirty. Person Two is wearing traditional desert garb. Inspirational characters. Desert setting. Great light. Late afternoon. Photo shot on Kodak Ektachrome. In the style of Enki Bilal. --v 5 --ar 5:2"
+  alt: "Time travelers in biblical times"
 category: AI Experiment
 authors:
 - joce
