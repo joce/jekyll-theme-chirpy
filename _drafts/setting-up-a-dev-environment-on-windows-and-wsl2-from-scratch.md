@@ -3,9 +3,9 @@ layout: post
 title: Setting up a dev environment on Windows and WSL2 from scratch
 description: Notes on how to get a development environment up and running
   on Windows with WSL2, assuming pristine machine and no prior knowledge.
-category: How-to
+category: How-to Guide
 tags:
-- howto
+- how-to
 - dev
 - windows
 - linux

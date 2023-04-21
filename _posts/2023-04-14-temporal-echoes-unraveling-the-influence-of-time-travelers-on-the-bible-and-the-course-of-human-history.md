@@ -12,7 +12,7 @@ authors:
 - joce
 - chatgpt
 tags:
-- chatgpt
+- chatGPT
 - alternate history
 - fiction
 - bible

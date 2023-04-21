@@ -8,7 +8,7 @@ image:
   title: "Photo by lo lo on Unsplash"
 category:  How-to Guide
 tags:
-- howto
+- how-to
 - dev
 - command line
 - stock market

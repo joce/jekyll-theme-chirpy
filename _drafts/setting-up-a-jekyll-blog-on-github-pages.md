@@ -3,9 +3,9 @@ layout: post
 title: Setting up a Jekyll blog on GitHub pages
 description:
 image:
-category: How-to
+category: How-to Guide
 tags:
-- howto
+- how-to
 - blog
 - jekyll
 - github
