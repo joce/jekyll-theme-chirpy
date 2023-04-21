@@ -6,7 +6,7 @@ description: How to fetch market data from Yahoo! Finance in CSV form, from the 
 image:
   path: /assets/img/posts/pulling-yahoo-finance-tickers-to-csv/header/lo-lo-CeVj8lPBJSc-unsplash.jpg
   title: "Photo by lo lo on Unsplash"
-category:  How-to
+category:  How-to Guide
 tags:
 - howto
 - dev
