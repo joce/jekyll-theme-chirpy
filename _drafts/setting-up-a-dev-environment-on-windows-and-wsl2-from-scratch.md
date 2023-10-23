@@ -59,7 +59,7 @@ The tl;dr is to run the following command from an elevated PowerShell prompt:
 $ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
-Once you've installed Chocolatey, we'll install just install a single program for now, [`gsudo`](https://github.com/gerardog/gsudo), which will be required for the [setup of the Windows Terminal](#windows-terminal) we're about to do.
+Once you've installed Chocolatey, we'll install just install a single program for now, [`gsudo`](https://github.com/gerardog/gsudo), which will be required for the setup of the Windows Terminal #windows-terminal (**ADD LINK BACK**) we're about to do.
 
 Again, from an elevated console (doesn't have to be Powershell this time.)
 
