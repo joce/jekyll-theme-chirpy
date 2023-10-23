@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Setting up a dev environment on Windows and WSL2 from scratch
-description: Notes on how to get a development environment up and running
-  on Windows with WSL2, assuming pristine machine and no prior knowledge.
+description: Notes on how to get a development environment up and running on Windows with WSL2, assuming pristine machine and no prior knowledge.
 category: How-to Guide
 tags:
 - how-to
@@ -11,7 +10,8 @@ tags:
 - linux
 - wsl
 image:
-  src: "/assets/img/posts/setting-up-a-dev-environment-on-windows-and-wsl2-from-scratch/header/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg"
+  path: "/assets/img/posts/setting-up-a-dev-environment-on-windows-and-wsl2-from-scratch/header/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg"
+  title: ""
 ---
 
 Over the years, I've setup, improved and tweaked my dev environment. If I were asked me what to install, how to configure it and so on and so forth, to get the same setup, I'd have to think about it for a while, and the answer would maybe overwhelm the questioner.
