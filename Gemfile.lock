@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-chirpy (6.3.0)
+    jekyll-theme-chirpy (6.5.5)
       jekyll (~> 4.3)
       jekyll-archives (~> 2.2)
       jekyll-include-cache (~> 0.2)
